@@ -32,3 +32,9 @@ This project is an interactive **Coffee Sales Performance Dashboard** built usin
 - Emphasis on clean visual storytelling.  
 - Designed for quick insights by business stakeholders.  
 - Combines the power of SQL for backend validation with Power BI’s front-end visuals.
+
+## 📸 Dashboard Preview
+
+Here’s a glimpse of the Power BI dashboard:
+![Dashboard](https://github.com/user-attachments/assets/644a135d-4191-4249-b98e-a462e573cb4b)
+
